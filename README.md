@@ -7,9 +7,9 @@ Compared Linear Regression, Ridge, and Lasso models.
 
 | Model | R² Score | MAE | RMSE |
 |---|---|---|---|
-| Linear Regression | 0.57 | ... | ... |
-| Ridge (α=1) | ... | ... | ... |
-| Lasso (α=0.1) | ... | ... | ... |
+| Linear Regression | 0.57 | 0.5332 | 0.7456 |
+| Ridge (α=1) | 0.5759 | 0.5332 | 0.7455 |
+| Lasso (α=0.1) | 0.5318 | 0.5816 | 0.7833 |
 
 Best model: **Ridge (α=1)** with R² = ...
 
